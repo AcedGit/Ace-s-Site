@@ -1,0 +1,76 @@
+body{
+    background: linear-gradient(to bottom right, #ff3aa6, #ff7dc4, #ffa9d8);
+    background-attachment: fixed;
+    font-family: sans-serif;
+    max-width: 1000px;
+}
+.header{
+    background-image: linear-gradient(to bottom right,rgb(60, 255, 0), rgb(0 255, 213));
+    font-size: 2rem;
+    border-radius: 15px;
+    text-align: center;
+}
+.header-text{
+    text-align: center;
+    position: relative;
+    bottom: 25px;
+    left: 270px;
+    background: linear-gradient(to bottom left, #f700ff, #8e00aa, #ff00c8);
+    max-width: 250px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: #ffffff;
+}
+a{
+    width: 45px;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 10px;
+}
+a:hover{
+    background-color: rgb(175, 175, 175);
+}
+.yt{
+    background: linear-gradient(to bottom right, #ff0000, #ff958e);
+    font-weight: bold;
+    position: relative;
+    left: 200px;
+    color: #f0f0f0;
+}
+.disc{
+    background: linear-gradient(to bottom right, blue,#00efff);
+    color: #ffffff;
+    font-weight: bold;
+    width: 100px;
+    position: relative;
+    left: 435px;
+    padding: 10px;
+}
+.tt{
+    background: linear-gradient(to bottom right, red, rgb(156, 156, 156), blue);
+    color: #ffffff;
+    font-weight: bold;
+    width: 100px;
+    text-align: center;
+    position: absolute;
+    left: 350px;
+    top: 200px;
+}
+.bsicon{
+    border-radius: 25px;
+    max-width: 90px;
+    position: absolute;
+    left: 370px;
+    top: 250px;
+}
+.bscode{
+    background: linear-gradient(to bottom right, #aaaa00, #505000);
+    width: 100px;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
+    position: absolute;
+    left: 355px;
+    top: 350px;
+    padding: 5px;
+}
